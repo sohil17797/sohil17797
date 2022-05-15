@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohil17797
-- 👀 I’m interested in App Developing
-- 🌱 I’m currently learning Flutter 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently Data Science and Blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact: ganganisohil4061@gmail.com
 
