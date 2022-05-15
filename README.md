@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohil17797
+- 👋 Hi, I’m @sohil
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently Data Science and Blockchain
 - 💞️ I’m looking to collaborate on ...
